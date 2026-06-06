@@ -1,37 +1,77 @@
 [
   {
     "category": "Love",
-    "lists": [
-      ["#love", "#romance", "#dating", "#crush", "#relationship"],
-      ["#heart", "#kiss", "#couple", "#hug", "#affection"]
+    "hashtags": [
+      "#love",
+      "#romance",
+      "#dating",
+      "#crush",
+      "#relationship",
+      "#heart",
+      "#kiss",
+      "#couple",
+      "#hug",
+      "#affection"
     ]
   },
   {
     "category": "Fitness",
-    "lists": [
-      ["#gym", "#workout", "#fitness", "#bodybuilding", "#health"],
-      ["#cardio", "#strength", "#training", "#fitlife", "#muscle"]
+    "hashtags": [
+      "#gym",
+      "#workout",
+      "#fitness",
+      "#bodybuilding",
+      "#health",
+      "#cardio",
+      "#strength",
+      "#training",
+      "#fitlife",
+      "#muscle"
     ]
   },
   {
     "category": "Gaming",
-    "lists": [
-      ["#gaming", "#gamer", "#pcgaming", "#esports", "#play"],
-      ["#xbox", "#playstation", "#mobilegames", "#streaming", "#gameon"]
+    "hashtags": [
+      "#gaming",
+      "#gamer",
+      "#pcgaming",
+      "#esports",
+      "#play",
+      "#xbox",
+      "#playstation",
+      "#mobilegames",
+      "#streaming",
+      "#gameon"
     ]
   },
   {
     "category": "Music",
-    "lists": [
-      ["#music", "#song", "#playlist", "#spotify", "#beats"],
-      ["#rap", "#pop", "#rock", "#hiphop", "#newmusic"]
+    "hashtags": [
+      "#music",
+      "#song",
+      "#playlist",
+      "#spotify",
+      "#beats",
+      "#rap",
+      "#pop",
+      "#rock",
+      "#hiphop",
+      "#newmusic"
     ]
   },
   {
     "category": "Travel",
-    "lists": [
-      ["#travel", "#explore", "#wanderlust", "#vacation", "#adventure"],
-      ["#beach", "#mountains", "#trip", "#tourism", "#journey"]
+    "hashtags": [
+      "#travel",
+      "#explore",
+      "#wanderlust",
+      "#vacation",
+      "#adventure",
+      "#beach",
+      "#mountains",
+      "#trip",
+      "#tourism",
+      "#journey"
     ]
   }
 ]
